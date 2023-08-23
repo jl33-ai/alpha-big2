@@ -9,6 +9,7 @@ Replicating AlphaGo’s methodology on a lesser big2. Developing an AI to play t
 
 ### Stage 0: Preparation 
 - Absorb Amanda's Repo and create tkinter GUI
+- Create self-recorded explanatory video (And learn how to play the game) 
 
 ### Stage 1: Master the Game Rules
 - **Objective**: Acquire a comprehensive understanding of 'Big2' rules and strategies.
