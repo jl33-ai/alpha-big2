@@ -1,7 +1,15 @@
 # Big2 AI Project - To-Do List
 
 ## Introduction
-Replicating AlphaGo’s methodology on a lesser big2. Developing an AI to play the card game 'Big2', inspired by AlphaGo techniques. This document outlines the key tasks and stages to guide the development process.
+Replicating AlphaGo’s AI methodology on a lesser card game: Big 2. Developing an AI to play the card game 'Big2', imitating AlphaGo techniques.
+
+**The Revenge Motive:** <br>
+> A friend, we'll call her Laura, introduces me to this new card game, Big 2 🃒. <br>
+> We play.<br>
+> I win; 2-1<br>
+> She insists that its just a game of chance; whoever is dealt the best hand<br>
+> I promise to test this hypothesis<br>
+> (By creating an entity which plays the game completely optimally, and thus, differentiate skill from luck.)  
 
 [Game Explained](https://youtu.be/U28DKiVQpVM)
 
