@@ -11,7 +11,7 @@ Replicating AlphaGo’s AI methodology on a lesser card game: Big 2. Developing 
 > I promise to test this hypothesis<br>
 > (By creating an entity which plays the game completely optimally, and thus, differentiate skill from luck.)  
 
-[Game Explained](https://youtu.be/U28DKiVQpVM)
+[The Game Explained](https://youtu.be/U28DKiVQpVM)
 
 ## Stages
 
